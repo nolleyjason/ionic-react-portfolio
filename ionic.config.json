@@ -1,0 +1,8 @@
+{
+  "name": "ionic-react-portfolio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "a21a19b4"
+}
